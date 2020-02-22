@@ -1,2 +1,2 @@
 # Kafka-for-TwitterStreamingData
-This is kafka project to stream Twitter data on Kafka topics
+kafka project to stream Twitter data on Kafka topics. This stores the data on Elastic Search.
